@@ -53,7 +53,7 @@ You are recommended to use the [RStudio IDE](https://www.rstudio.com/products/rs
 
 --
 
-- Click the `Knit` button to compile it;
+- Click the `Knit` button to compile it; hhggjjghjg
 
 --
 
